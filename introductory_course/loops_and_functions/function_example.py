@@ -8,7 +8,7 @@ def make_plural(string):
 	return string
 
 
-list_of_words = ["cat", "dogs", "cakes", "forks", "sock" ," shoe"]
+list_of_words = ["cat", "dogs", "cakes", "forks", "sock" ,"shoe"]
 
 for word in list_of_words:
 	print(make_plural(word))
